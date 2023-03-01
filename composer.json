@@ -1,0 +1,15 @@
+{
+    "name": "forpastime/hyperf-json-rpc-interfaces",
+    "description": "hyperf-json-rpc-interfaces",
+    "type": "lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Forpastime"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.3"
+    }
+}
