@@ -9,6 +9,11 @@
         }
     ],
     "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "HyperfJsonRpcInterfaces\\": "src/"
+        }
+    },
     "require": {
         "php": ">=7.3"
     }
