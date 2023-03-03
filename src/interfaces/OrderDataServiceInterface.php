@@ -5,7 +5,7 @@
  * 个人主页 : http://forpastime.com
  */
 
-namespace interfaces;
+namespace Forpastime\Hyperf\Interfaces;
 
 
 interface OrderDataServiceInterface
